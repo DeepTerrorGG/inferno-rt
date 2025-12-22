@@ -155,3 +155,4 @@
 - [2026-04-17T19:24:11] Implement DAG structure and operator fusion stub
 - [2026-04-18T22:27:47] Write gtest fixtures for operator fusion and tensor strides
 - [2026-04-18T13:37:48] Setup CMake build system and GoogleTest integration
+- [2025-12-22T12:00:00] Initialize project planning and roadmap for bare-metal inference engine
