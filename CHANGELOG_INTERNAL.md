@@ -157,3 +157,4 @@
 - [2026-04-18T13:37:48] Setup CMake build system and GoogleTest integration
 - [2025-12-22T12:00:00] Initialize project planning and roadmap for bare-metal inference engine
 - [2025-12-25T12:00:00] Draft memory subsystem architecture and arena allocator specs
+- [2025-12-28T12:00:00] Design tensor math abstraction and lock-free concurrency model
