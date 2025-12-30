@@ -160,3 +160,4 @@
 - [2025-12-28T12:00:00] Design tensor math abstraction and lock-free concurrency model
 - [2025-12-27T12:00:00] Finalize dependency roadmap and C++20 prerequisites
 - [2025-12-29T12:00:00] Draft execution graph design for ONNX topologies
+- [2025-12-30T12:00:00] Refine hardware acceleration requirements for CUDA backend
