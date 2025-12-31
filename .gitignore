@@ -1,0 +1,12 @@
+build/
+__pycache__/
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+CMakeCache.txt
+CMakeFiles/
+.vs/
+*.sln
+*.vcxproj*

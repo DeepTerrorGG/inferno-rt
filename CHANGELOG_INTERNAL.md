@@ -1,0 +1,1 @@
+- [2026-01-01T11:06:13] Add vcvars64 compiler environment setup script for Visual Studio
