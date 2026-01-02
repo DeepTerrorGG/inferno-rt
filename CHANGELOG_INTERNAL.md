@@ -1,2 +1,3 @@
 - [2026-01-01T11:06:13] Add vcvars64 compiler environment setup script for Visual Studio
 - [2026-01-01T17:08:40] Write gtest fixtures for operator fusion and tensor strides
+- [2026-01-02T13:41:55] Create real-time evaluation demo in realtime_eval.cpp
