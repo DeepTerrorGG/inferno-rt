@@ -3,3 +3,4 @@
 - [2026-01-02T13:41:55] Create real-time evaluation demo in realtime_eval.cpp
 - [2026-01-03T20:07:07] Implement N-dimensional tensor logic and strides in tensor.cpp
 - [2026-01-04T13:00:59] Write gtest fixtures for operator fusion and tensor strides
+- [2026-01-05T15:30:37] Implement Pybind11 Python wrappers in bindings.cpp
