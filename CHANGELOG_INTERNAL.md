@@ -6,3 +6,4 @@
 - [2026-01-05T15:30:37] Implement Pybind11 Python wrappers in bindings.cpp
 - [2026-01-06T19:24:08] Write gtest fixtures for operator fusion and tensor strides
 - [2026-01-07T12:39:53] Add Table of Contents to README.md
+- [2026-01-08T21:37:51] Setup CMake build system and GoogleTest integration
