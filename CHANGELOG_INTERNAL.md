@@ -8,3 +8,4 @@
 - [2026-01-07T12:39:53] Add Table of Contents to README.md
 - [2026-01-08T21:37:51] Setup CMake build system and GoogleTest integration
 - [2026-01-09T13:01:13] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
+- [2026-01-09T15:18:57] Implement Pybind11 Python wrappers in bindings.cpp
