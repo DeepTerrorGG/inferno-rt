@@ -10,3 +10,4 @@
 - [2026-01-09T13:01:13] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
 - [2026-01-09T15:18:57] Implement Pybind11 Python wrappers in bindings.cpp
 - [2026-01-10T13:17:42] Update project icons in README
+- [2026-01-10T10:55:17] Fix MSVC C++20 standard compliance considerations in build
