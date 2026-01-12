@@ -13,3 +13,4 @@
 - [2026-01-10T10:55:17] Fix MSVC C++20 standard compliance considerations in build
 - [2026-01-11T22:49:26] Update project icons in README
 - [2026-01-12T13:58:17] Disable CUDA backend conditionally in CMakeLists.txt
+- [2026-01-12T11:20:07] Implement ArenaAllocator definition in allocator.hpp
