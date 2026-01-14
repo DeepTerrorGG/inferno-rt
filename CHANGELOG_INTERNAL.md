@@ -15,3 +15,4 @@
 - [2026-01-12T13:58:17] Disable CUDA backend conditionally in CMakeLists.txt
 - [2026-01-12T11:20:07] Implement ArenaAllocator definition in allocator.hpp
 - [2026-01-13T17:12:47] Implement Pybind11 Python wrappers in bindings.cpp
+- [2026-01-14T16:18:53] Implement DAG structure and operator fusion stub
