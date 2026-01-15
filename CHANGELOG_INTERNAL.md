@@ -17,3 +17,4 @@
 - [2026-01-13T17:12:47] Implement Pybind11 Python wrappers in bindings.cpp
 - [2026-01-14T16:18:53] Implement DAG structure and operator fusion stub
 - [2026-01-14T17:20:57] Implement DAG structure and operator fusion stub
+- [2026-01-15T14:04:28] Update project proposal documentation
