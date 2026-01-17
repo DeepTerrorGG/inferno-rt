@@ -21,3 +21,4 @@
 - [2026-01-15T22:10:38] Implement ArenaAllocator definition in allocator.hpp
 - [2026-01-16T22:56:18] Add Protobuf integration for ONNX parsing
 - [2026-01-16T15:12:56] Implement N-dimensional tensor logic and strides in tensor.cpp
+- [2026-01-17T10:24:38] Add Table of Contents to README.md
