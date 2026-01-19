@@ -23,3 +23,4 @@
 - [2026-01-16T15:12:56] Implement N-dimensional tensor logic and strides in tensor.cpp
 - [2026-01-17T10:24:38] Add Table of Contents to README.md
 - [2026-01-18T22:39:16] Update project icons in README
+- [2026-01-19T10:54:14] Setup CMake build system and GoogleTest integration
