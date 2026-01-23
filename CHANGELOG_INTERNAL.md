@@ -29,3 +29,4 @@
 - [2026-01-21T20:51:38] Write gtest fixtures for operator fusion and tensor strides
 - [2026-01-22T19:23:54] Write gtest fixtures for operator fusion and tensor strides
 - [2026-01-22T14:44:08] Update project proposal documentation
+- [2026-01-23T22:07:51] Implement DAG structure and operator fusion stub
