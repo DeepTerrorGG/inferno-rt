@@ -31,3 +31,4 @@
 - [2026-01-22T14:44:08] Update project proposal documentation
 - [2026-01-23T22:07:51] Implement DAG structure and operator fusion stub
 - [2026-01-23T20:28:04] Add Table of Contents to README.md
+- [2026-01-24T18:28:18] Implement Pybind11 Python wrappers in bindings.cpp
