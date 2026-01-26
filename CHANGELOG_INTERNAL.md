@@ -34,3 +34,4 @@
 - [2026-01-24T18:28:18] Implement Pybind11 Python wrappers in bindings.cpp
 - [2026-01-24T12:40:49] Add Protobuf integration for ONNX parsing
 - [2026-01-25T18:56:27] Add Protobuf integration for ONNX parsing
+- [2026-01-26T11:48:47] Add vcvars64 compiler environment setup script for Visual Studio
