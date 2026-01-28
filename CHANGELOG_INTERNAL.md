@@ -36,3 +36,4 @@
 - [2026-01-25T18:56:27] Add Protobuf integration for ONNX parsing
 - [2026-01-26T11:48:47] Add vcvars64 compiler environment setup script for Visual Studio
 - [2026-01-27T22:05:29] Implement ArenaAllocator definition in allocator.hpp
+- [2026-01-28T09:16:51] Setup CMake build system and GoogleTest integration
