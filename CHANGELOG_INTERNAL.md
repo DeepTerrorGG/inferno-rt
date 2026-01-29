@@ -37,3 +37,4 @@
 - [2026-01-26T11:48:47] Add vcvars64 compiler environment setup script for Visual Studio
 - [2026-01-27T22:05:29] Implement ArenaAllocator definition in allocator.hpp
 - [2026-01-28T09:16:51] Setup CMake build system and GoogleTest integration
+- [2026-01-29T18:35:16] Update project icons in README
