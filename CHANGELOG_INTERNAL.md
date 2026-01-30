@@ -39,3 +39,4 @@
 - [2026-01-28T09:16:51] Setup CMake build system and GoogleTest integration
 - [2026-01-29T18:35:16] Update project icons in README
 - [2026-01-29T17:00:58] Update project icons in README
+- [2026-01-30T22:01:35] Detail architecture and memory subsystem documentation
