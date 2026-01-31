@@ -41,3 +41,4 @@
 - [2026-01-29T17:00:58] Update project icons in README
 - [2026-01-30T22:01:35] Detail architecture and memory subsystem documentation
 - [2026-01-30T21:28:26] Add Table of Contents to README.md
+- [2026-01-31T17:17:00] Fix MSVC C++20 standard compliance considerations in build
