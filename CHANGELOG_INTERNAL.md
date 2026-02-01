@@ -43,3 +43,4 @@
 - [2026-01-30T21:28:26] Add Table of Contents to README.md
 - [2026-01-31T17:17:00] Fix MSVC C++20 standard compliance considerations in build
 - [2026-02-01T15:20:22] Implement ArenaAllocator definition in allocator.hpp
+- [2026-02-01T19:49:19] Write gtest fixtures for operator fusion and tensor strides
