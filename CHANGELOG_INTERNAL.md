@@ -44,3 +44,4 @@
 - [2026-01-31T17:17:00] Fix MSVC C++20 standard compliance considerations in build
 - [2026-02-01T15:20:22] Implement ArenaAllocator definition in allocator.hpp
 - [2026-02-01T19:49:19] Write gtest fixtures for operator fusion and tensor strides
+- [2026-02-02T22:41:20] Implement Pybind11 Python wrappers in bindings.cpp
