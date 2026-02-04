@@ -47,3 +47,4 @@
 - [2026-02-02T22:41:20] Implement Pybind11 Python wrappers in bindings.cpp
 - [2026-02-03T19:47:49] Update project icons in README
 - [2026-02-03T22:21:57] Setup CMake build system and GoogleTest integration
+- [2026-02-04T21:06:47] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
