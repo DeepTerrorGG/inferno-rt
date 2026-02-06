@@ -50,3 +50,4 @@
 - [2026-02-04T21:06:47] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
 - [2026-02-05T18:16:49] Add Table of Contents to README.md
 - [2026-02-05T21:08:23] Implement naive GEMM and AVX2 optimizations in gemm.cpp
+- [2026-02-06T17:46:24] Add Table of Contents to README.md
