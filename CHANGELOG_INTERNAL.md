@@ -54,3 +54,4 @@
 - [2026-02-06T17:36:19] Implement Pybind11 Python wrappers in bindings.cpp
 - [2026-02-07T15:17:43] Implement N-dimensional tensor logic and strides in tensor.cpp
 - [2026-02-07T18:11:48] Update project proposal documentation
+- [2026-02-08T15:40:45] Detail architecture and memory subsystem documentation
