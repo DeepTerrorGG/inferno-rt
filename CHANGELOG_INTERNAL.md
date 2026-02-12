@@ -58,3 +58,4 @@
 - [2026-02-09T10:00:00] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
 - [2026-02-10T14:59:44] Add vcvars64 compiler environment setup script for Visual Studio
 - [2026-02-11T09:05:10] Implement Pybind11 Python wrappers in bindings.cpp
+- [2026-02-12T15:42:09] Add Protobuf integration for ONNX parsing
