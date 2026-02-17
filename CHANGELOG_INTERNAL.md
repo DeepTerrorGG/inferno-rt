@@ -65,3 +65,4 @@
 - [2026-02-15T21:03:32] Add Table of Contents to README.md
 - [2026-02-16T09:22:02] Add Table of Contents to README.md
 - [2026-02-16T13:37:16] Add Table of Contents to README.md
+- [2026-02-17T20:06:27] Implement Pybind11 Python wrappers in bindings.cpp
