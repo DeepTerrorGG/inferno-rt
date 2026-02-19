@@ -67,3 +67,4 @@
 - [2026-02-16T13:37:16] Add Table of Contents to README.md
 - [2026-02-17T20:06:27] Implement Pybind11 Python wrappers in bindings.cpp
 - [2026-02-18T11:46:57] Update project proposal documentation
+- [2026-02-19T22:53:41] Detail architecture and memory subsystem documentation
