@@ -70,3 +70,4 @@
 - [2026-02-19T22:53:41] Detail architecture and memory subsystem documentation
 - [2026-02-20T19:34:50] Update project proposal documentation
 - [2026-02-21T14:02:29] Write gtest fixtures for operator fusion and tensor strides
+- [2026-02-22T17:53:05] Add Protobuf integration for ONNX parsing
