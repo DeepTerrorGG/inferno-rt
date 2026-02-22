@@ -71,3 +71,4 @@
 - [2026-02-20T19:34:50] Update project proposal documentation
 - [2026-02-21T14:02:29] Write gtest fixtures for operator fusion and tensor strides
 - [2026-02-22T17:53:05] Add Protobuf integration for ONNX parsing
+- [2026-02-22T22:25:46] Implement Pybind11 Python wrappers in bindings.cpp
