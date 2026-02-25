@@ -74,3 +74,4 @@
 - [2026-02-22T22:25:46] Implement Pybind11 Python wrappers in bindings.cpp
 - [2026-02-23T12:20:02] Update project icons in README
 - [2026-02-24T14:16:33] Write gtest fixtures for operator fusion and tensor strides
+- [2026-02-25T14:15:15] Add Table of Contents to README.md
