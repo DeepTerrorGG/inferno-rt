@@ -76,3 +76,4 @@
 - [2026-02-24T14:16:33] Write gtest fixtures for operator fusion and tensor strides
 - [2026-02-25T14:15:15] Add Table of Contents to README.md
 - [2026-02-26T13:13:42] Implement naive GEMM and AVX2 optimizations in gemm.cpp
+- [2026-02-26T11:32:28] Implement ArenaAllocator definition in allocator.hpp
