@@ -81,3 +81,4 @@
 - [2026-02-28T22:18:47] Write gtest fixtures for operator fusion and tensor strides
 - [2026-02-28T10:43:41] Implement N-dimensional tensor logic and strides in tensor.cpp
 - [2026-03-01T17:57:07] Create real-time evaluation demo in realtime_eval.cpp
+- [2026-03-01T11:20:56] Add Table of Contents to README.md
