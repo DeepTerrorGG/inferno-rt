@@ -82,3 +82,4 @@
 - [2026-02-28T10:43:41] Implement N-dimensional tensor logic and strides in tensor.cpp
 - [2026-03-01T17:57:07] Create real-time evaluation demo in realtime_eval.cpp
 - [2026-03-01T11:20:56] Add Table of Contents to README.md
+- [2026-03-02T19:39:29] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
