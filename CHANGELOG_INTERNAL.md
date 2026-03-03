@@ -84,3 +84,4 @@
 - [2026-03-01T11:20:56] Add Table of Contents to README.md
 - [2026-03-02T19:39:29] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
 - [2026-03-02T13:42:43] Update project proposal documentation
+- [2026-03-03T18:31:09] Implement ArenaAllocator definition in allocator.hpp
