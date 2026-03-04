@@ -86,3 +86,4 @@
 - [2026-03-02T13:42:43] Update project proposal documentation
 - [2026-03-03T18:31:09] Implement ArenaAllocator definition in allocator.hpp
 - [2026-03-03T18:38:10] Disable CUDA backend conditionally in CMakeLists.txt
+- [2026-03-04T13:20:58] Write gtest fixtures for operator fusion and tensor strides
