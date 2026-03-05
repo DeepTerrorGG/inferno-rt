@@ -88,3 +88,4 @@
 - [2026-03-03T18:38:10] Disable CUDA backend conditionally in CMakeLists.txt
 - [2026-03-04T13:20:58] Write gtest fixtures for operator fusion and tensor strides
 - [2026-03-04T18:21:31] Write gtest fixtures for operator fusion and tensor strides
+- [2026-03-05T18:49:13] Fix MSVC C++20 standard compliance considerations in build
