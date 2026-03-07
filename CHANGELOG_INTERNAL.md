@@ -92,3 +92,4 @@
 - [2026-03-05T20:50:53] Disable CUDA backend conditionally in CMakeLists.txt
 - [2026-03-06T11:40:52] Add Table of Contents to README.md
 - [2026-03-07T20:29:28] Update project icons in README
+- [2026-03-07T15:12:16] Implement N-dimensional tensor logic and strides in tensor.cpp
