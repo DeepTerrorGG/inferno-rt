@@ -91,3 +91,4 @@
 - [2026-03-05T18:49:13] Fix MSVC C++20 standard compliance considerations in build
 - [2026-03-05T20:50:53] Disable CUDA backend conditionally in CMakeLists.txt
 - [2026-03-06T11:40:52] Add Table of Contents to README.md
+- [2026-03-07T20:29:28] Update project icons in README
