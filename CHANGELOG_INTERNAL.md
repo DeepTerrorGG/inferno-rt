@@ -94,3 +94,4 @@
 - [2026-03-07T20:29:28] Update project icons in README
 - [2026-03-07T15:12:16] Implement N-dimensional tensor logic and strides in tensor.cpp
 - [2026-03-08T11:50:57] Update project proposal documentation
+- [2026-03-09T15:38:09] Implement Pybind11 Python wrappers in bindings.cpp
