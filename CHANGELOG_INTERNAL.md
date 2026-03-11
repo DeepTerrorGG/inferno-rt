@@ -97,3 +97,4 @@
 - [2026-03-09T15:38:09] Implement Pybind11 Python wrappers in bindings.cpp
 - [2026-03-10T14:20:46] Add Table of Contents to README.md
 - [2026-03-11T11:57:45] Detail architecture and memory subsystem documentation
+- [2026-03-11T21:39:59] Fix MSVC C++20 standard compliance considerations in build
