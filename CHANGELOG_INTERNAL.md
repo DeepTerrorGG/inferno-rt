@@ -99,3 +99,4 @@
 - [2026-03-11T11:57:45] Detail architecture and memory subsystem documentation
 - [2026-03-11T21:39:59] Fix MSVC C++20 standard compliance considerations in build
 - [2026-03-12T20:28:28] Fix MSVC C++20 standard compliance considerations in build
+- [2026-03-13T21:49:47] Update project icons in README
