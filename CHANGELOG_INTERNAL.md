@@ -101,3 +101,4 @@
 - [2026-03-12T20:28:28] Fix MSVC C++20 standard compliance considerations in build
 - [2026-03-13T21:49:47] Update project icons in README
 - [2026-03-13T14:12:55] Setup CMake build system and GoogleTest integration
+- [2026-03-14T16:26:58] Add vcvars64 compiler environment setup script for Visual Studio
