@@ -104,3 +104,4 @@
 - [2026-03-14T16:26:58] Add vcvars64 compiler environment setup script for Visual Studio
 - [2026-03-14T13:30:20] Update project icons in README
 - [2026-03-15T09:26:22] Implement Pybind11 Python wrappers in bindings.cpp
+- [2026-03-15T15:42:45] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
