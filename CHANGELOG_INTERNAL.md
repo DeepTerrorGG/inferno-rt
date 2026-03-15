@@ -103,3 +103,4 @@
 - [2026-03-13T14:12:55] Setup CMake build system and GoogleTest integration
 - [2026-03-14T16:26:58] Add vcvars64 compiler environment setup script for Visual Studio
 - [2026-03-14T13:30:20] Update project icons in README
+- [2026-03-15T09:26:22] Implement Pybind11 Python wrappers in bindings.cpp
