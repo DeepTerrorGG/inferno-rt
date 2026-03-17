@@ -107,3 +107,4 @@
 - [2026-03-15T15:42:45] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
 - [2026-03-16T22:11:03] Create real-time evaluation demo in realtime_eval.cpp
 - [2026-03-17T11:26:19] Update project icons in README
+- [2026-03-17T21:24:19] Setup CMake build system and GoogleTest integration
