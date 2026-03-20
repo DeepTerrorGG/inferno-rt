@@ -111,3 +111,4 @@
 - [2026-03-18T21:17:06] Write gtest fixtures for operator fusion and tensor strides
 - [2026-03-19T10:16:20] Add vcvars64 compiler environment setup script for Visual Studio
 - [2026-03-19T18:35:49] Update project proposal documentation
+- [2026-03-20T17:15:19] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
