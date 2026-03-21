@@ -112,3 +112,4 @@
 - [2026-03-19T10:16:20] Add vcvars64 compiler environment setup script for Visual Studio
 - [2026-03-19T18:35:49] Update project proposal documentation
 - [2026-03-20T17:15:19] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
+- [2026-03-21T12:12:12] Add Table of Contents to README.md
