@@ -115,3 +115,4 @@
 - [2026-03-21T12:12:12] Add Table of Contents to README.md
 - [2026-03-22T20:33:56] Setup CMake build system and GoogleTest integration
 - [2026-03-22T10:47:32] Add Table of Contents to README.md
+- [2026-03-23T12:04:33] Create real-time evaluation demo in realtime_eval.cpp
