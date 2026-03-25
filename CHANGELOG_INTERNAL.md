@@ -118,3 +118,4 @@
 - [2026-03-23T12:04:33] Create real-time evaluation demo in realtime_eval.cpp
 - [2026-03-24T18:24:21] Implement naive GEMM and AVX2 optimizations in gemm.cpp
 - [2026-03-24T22:14:57] Setup CMake build system and GoogleTest integration
+- [2026-03-25T20:41:36] Implement ArenaAllocator definition in allocator.hpp
