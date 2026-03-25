@@ -119,3 +119,4 @@
 - [2026-03-24T18:24:21] Implement naive GEMM and AVX2 optimizations in gemm.cpp
 - [2026-03-24T22:14:57] Setup CMake build system and GoogleTest integration
 - [2026-03-25T20:41:36] Implement ArenaAllocator definition in allocator.hpp
+- [2026-03-25T21:24:38] Add Protobuf integration for ONNX parsing
