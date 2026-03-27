@@ -121,3 +121,4 @@
 - [2026-03-25T20:41:36] Implement ArenaAllocator definition in allocator.hpp
 - [2026-03-25T21:24:38] Add Protobuf integration for ONNX parsing
 - [2026-03-26T12:05:34] Implement Pybind11 Python wrappers in bindings.cpp
+- [2026-03-27T11:37:36] Add vcvars64 compiler environment setup script for Visual Studio
