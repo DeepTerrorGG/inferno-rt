@@ -123,3 +123,4 @@
 - [2026-03-26T12:05:34] Implement Pybind11 Python wrappers in bindings.cpp
 - [2026-03-27T11:37:36] Add vcvars64 compiler environment setup script for Visual Studio
 - [2026-03-28T09:07:48] Update project icons in README
+- [2026-03-29T18:24:41] Add Table of Contents to README.md
