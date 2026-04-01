@@ -127,3 +127,4 @@
 - [2026-03-29T21:58:37] Implement N-dimensional tensor logic and strides in tensor.cpp
 - [2026-03-30T22:36:07] Add Table of Contents to README.md
 - [2026-03-31T14:26:18] Add Table of Contents to README.md
+- [2026-04-01T11:11:05] Implement N-dimensional tensor logic and strides in tensor.cpp
