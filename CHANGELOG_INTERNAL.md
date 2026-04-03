@@ -130,3 +130,4 @@
 - [2026-04-01T11:11:05] Implement N-dimensional tensor logic and strides in tensor.cpp
 - [2026-04-01T15:37:27] Implement DAG structure and operator fusion stub
 - [2026-04-02T17:33:03] Setup CMake build system and GoogleTest integration
+- [2026-04-03T22:36:54] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
