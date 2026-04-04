@@ -132,3 +132,4 @@
 - [2026-04-02T17:33:03] Setup CMake build system and GoogleTest integration
 - [2026-04-03T22:36:54] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
 - [2026-04-03T19:43:35] Setup CMake build system and GoogleTest integration
+- [2026-04-04T17:45:22] Implement N-dimensional tensor logic and strides in tensor.cpp
