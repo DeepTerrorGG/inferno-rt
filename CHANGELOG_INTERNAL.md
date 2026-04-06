@@ -134,3 +134,4 @@
 - [2026-04-03T19:43:35] Setup CMake build system and GoogleTest integration
 - [2026-04-04T17:45:22] Implement N-dimensional tensor logic and strides in tensor.cpp
 - [2026-04-05T17:23:27] Add Table of Contents to README.md
+- [2026-04-06T22:51:59] Fix MSVC C++20 standard compliance considerations in build
