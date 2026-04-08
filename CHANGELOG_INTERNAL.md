@@ -138,3 +138,4 @@
 - [2026-04-07T11:00:58] Add Protobuf integration for ONNX parsing
 - [2026-04-07T09:00:14] Add Protobuf integration for ONNX parsing
 - [2026-04-08T21:05:46] Setup CMake build system and GoogleTest integration
+- [2026-04-08T12:58:47] Write gtest fixtures for operator fusion and tensor strides
