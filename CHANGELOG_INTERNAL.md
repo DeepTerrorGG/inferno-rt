@@ -146,3 +146,4 @@
 - [2026-04-12T15:10:00] Implement DAG structure and operator fusion stub
 - [2026-04-13T22:37:36] Add vcvars64 compiler environment setup script for Visual Studio
 - [2026-04-13T21:28:43] Disable CUDA backend conditionally in CMakeLists.txt
+- [2026-04-14T16:13:23] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
