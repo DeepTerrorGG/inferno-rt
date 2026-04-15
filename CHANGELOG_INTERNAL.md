@@ -148,3 +148,4 @@
 - [2026-04-13T21:28:43] Disable CUDA backend conditionally in CMakeLists.txt
 - [2026-04-14T16:13:23] Add CUDA kernels for Conv2D and GEMM in cuda_backend.cu
 - [2026-04-15T13:30:51] Add vcvars64 compiler environment setup script for Visual Studio
+- [2026-04-15T17:46:21] Implement naive GEMM and AVX2 optimizations in gemm.cpp
