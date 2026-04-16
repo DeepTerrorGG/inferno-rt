@@ -150,3 +150,4 @@
 - [2026-04-15T13:30:51] Add vcvars64 compiler environment setup script for Visual Studio
 - [2026-04-15T17:46:21] Implement naive GEMM and AVX2 optimizations in gemm.cpp
 - [2026-04-16T09:21:44] Implement ArenaAllocator definition in allocator.hpp
+- [2026-04-16T17:38:01] Fix MSVC C++20 standard compliance considerations in build
