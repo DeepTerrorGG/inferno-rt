@@ -152,3 +152,4 @@
 - [2026-04-16T09:21:44] Implement ArenaAllocator definition in allocator.hpp
 - [2026-04-16T17:38:01] Fix MSVC C++20 standard compliance considerations in build
 - [2026-04-17T19:00:31] Update project proposal documentation
+- [2026-04-17T19:24:11] Implement DAG structure and operator fusion stub
