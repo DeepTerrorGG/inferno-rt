@@ -154,3 +154,4 @@
 - [2026-04-17T19:00:31] Update project proposal documentation
 - [2026-04-17T19:24:11] Implement DAG structure and operator fusion stub
 - [2026-04-18T22:27:47] Write gtest fixtures for operator fusion and tensor strides
+- [2026-04-18T13:37:48] Setup CMake build system and GoogleTest integration
