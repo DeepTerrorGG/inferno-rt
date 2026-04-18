@@ -8,3 +8,4 @@ TEST(FusionTest, OptimizerPassStub) {
     // Calling fuse_operators directly verifies compilation works smoothly
     EXPECT_NO_THROW(dag.fuse_operators());
 }
+

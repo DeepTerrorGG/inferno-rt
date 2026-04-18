@@ -138,3 +138,4 @@ void cuda_conv2d(const core::Tensor& input, const core::Tensor& weight, core::Te
 } // namespace inferno
 
 #endif
+

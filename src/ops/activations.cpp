@@ -27,3 +27,4 @@ void relu(core::Tensor& t) {
 
 } // namespace ops
 } // namespace inferno
+

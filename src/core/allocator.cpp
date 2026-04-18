@@ -36,3 +36,4 @@ void ArenaAllocator::reset() {
 
 } // namespace core
 } // namespace inferno
+

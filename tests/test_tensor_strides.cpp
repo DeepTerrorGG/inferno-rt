@@ -77,3 +77,4 @@ TEST(TensorTest, Broadcasting) {
         EXPECT_FLOAT_EQ(broadcasted.at({i, 2}), 3.0f);
     }
 }
+

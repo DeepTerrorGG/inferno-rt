@@ -41,3 +41,4 @@ PYBIND11_MODULE(inferno, m) {
     m.def("parse_onnx", &parse_onnx, "Parses an ONNX model into a DAG architecture",
           py::arg("filepath"));
 }
+

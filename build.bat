@@ -4,3 +4,4 @@ call "%VS_PATH%\VC\Auxiliary\Build\vcvars64.bat"
 cd /d "%~dp0build"
 cmake .. -DUSE_CUDA=OFF
 cmake --build . --config Release
+

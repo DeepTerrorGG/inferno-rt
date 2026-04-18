@@ -49,3 +49,4 @@ void maxpool2d_naive(const core::Tensor& input, core::Tensor& output, size_t poo
 
 } // namespace ops
 } // namespace inferno
+

@@ -81,3 +81,4 @@ BENCHMARK(BM_GEMM_Tiled)->RangeMultiplier(2)->Range(64, 512);
 BENCHMARK(BM_GEMM_AVX2)->RangeMultiplier(2)->Range(64, 512);
 
 BENCHMARK_MAIN();
+

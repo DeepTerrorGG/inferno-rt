@@ -153,3 +153,4 @@ if(BUILD_PYTHON_BINDINGS)
     set_target_properties(inferno_python PROPERTIES OUTPUT_NAME "inferno")
     target_link_libraries(inferno_python PRIVATE inferno_graph)
 endif()
+

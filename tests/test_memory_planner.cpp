@@ -12,3 +12,4 @@ TEST(MemoryPlannerTest, CalculateLifespans) {
     EXPECT_NO_THROW(dag.plan_memory());
     EXPECT_EQ(dag.peak_memory_footprint(), 0); 
 }
+

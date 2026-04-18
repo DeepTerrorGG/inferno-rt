@@ -116,3 +116,4 @@ bool Tensor::is_contiguous() const {
 
 } // namespace core
 } // namespace inferno
+

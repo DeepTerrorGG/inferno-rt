@@ -55,3 +55,4 @@ void conv2d_naive(const core::Tensor& input, const core::Tensor& weight, core::T
 
 } // namespace ops
 } // namespace inferno
+

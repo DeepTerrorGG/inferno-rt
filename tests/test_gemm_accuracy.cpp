@@ -35,3 +35,4 @@ TEST(GemmTest, AccuracyCompare) {
         EXPECT_NEAR(C_naive.raw_data()[i], C_avx2.raw_data()[i], 1e-4);
     }
 }
+

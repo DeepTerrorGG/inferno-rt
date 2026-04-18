@@ -16,3 +16,4 @@ void gemm_avx2(const core::Tensor& A, const core::Tensor& B, core::Tensor& C);
 
 } // namespace ops
 } // namespace inferno
+

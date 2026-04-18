@@ -46,3 +46,4 @@ TEST(DAGTest, TopologicalSortMLP) {
     // ReLU simply passes it through since it's > 0
     EXPECT_FLOAT_EQ(hidden1->at({0, 0}), 2.0f);
 }
+
